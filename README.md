@@ -4,6 +4,7 @@ This dashboard provides a comprehensive analysis of sales performance across cou
 
 
 📌 Features
+
 Cards for Key Metrics
 
 Total Sales
@@ -19,7 +20,7 @@ Count of Countries
 
 
 
- Visualizations Included
+ # Visualizations Included
 
 • Bar Chart – Budget Amount vs Sales by Sub-Category
 Shows comparison across categories like Road Bikes, Mountain Bikes, Touring Bikes, etc.
@@ -41,7 +42,7 @@ Shows progress toward the target order quantity.
 
 
 
- KPIs and Highlights
+# KPIs and Highlights
 
 United States and Australia are the top sales contributors.
 Road Bikes and Mountain Bikes dominate sales among sub-categories.
