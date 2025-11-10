@@ -3,13 +3,19 @@ This dashboard provides a comprehensive analysis of sales performance across cou
 
 
 
-# Features
-1. Key Metric Cards
-   
+📌 Features
+Cards for Key Metrics
+
 Total Sales
+
 Total Budget Amount
+
 Total Order Quantity
+
 Count of Countries
+   
+   
+
 
 
 
