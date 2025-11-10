@@ -45,7 +45,9 @@ Shows progress toward the target order quantity.
 # KPIs and Highlights
 
 United States and Australia are the top sales contributors.
+
 Road Bikes and Mountain Bikes dominate sales among sub-categories.
+
 Strong sales performance marked by a total of $29M and 91K+ orders.
 
 
@@ -53,6 +55,7 @@ Strong sales performance marked by a total of $29M and 91K+ orders.
 # 🛠️ Tools Used
 
 Power BI – Dashboard creation and visualization
+
 Microsoft Excel / CSV – Data source for analysis
 
 
@@ -60,8 +63,11 @@ Microsoft Excel / CSV – Data source for analysis
 # 🚀 How to Use
 
 Download the .pbix file from this repository.
+
 Open it in Power BI Desktop.
+
 Interact with filters and visuals to explore insights
+
 (e.g., by country, sub-category, or time period).
 
 
