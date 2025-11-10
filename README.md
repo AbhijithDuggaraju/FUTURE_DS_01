@@ -3,7 +3,7 @@ This dashboard provides a comprehensive analysis of sales performance across cou
 
 
 
-📌 Features
+# 📌 Features
 
 Cards for Key Metrics
 
@@ -50,14 +50,14 @@ Strong sales performance marked by a total of $29M and 91K+ orders.
 
 
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 
 Power BI – Dashboard creation and visualization
 Microsoft Excel / CSV – Data source for analysis
 
 
 
-🚀 How to Use
+# 🚀 How to Use
 
 Download the .pbix file from this repository.
 Open it in Power BI Desktop.
@@ -66,6 +66,6 @@ Interact with filters and visuals to explore insights
 
 
 
-📊 Dashboard Preview
+# 📊 Dashboard Preview
 
 ![WhatsApp Image 2025-11-10 at 20 20 36_2afa2ad9](https://github.com/user-attachments/assets/1de4a1b9-fa28-4a4f-9634-d29b8efa311a)
